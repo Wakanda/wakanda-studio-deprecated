@@ -1,0 +1,11 @@
+@import "themes/minimal.css";
+
+html {
+   min-height: 100%;   
+}
+
+body {
+   background: url('http://www.wakanda.io/sites/all/themes/wakanda_cloud/images/fusee.png') no-repeat;
+   background-attachment: fixed;
+   background-position: 150px 175px; 
+}
